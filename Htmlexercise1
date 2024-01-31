@@ -1,0 +1,95 @@
+-->index.html
+<html>
+    <head>
+        <title>Image Map</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <img src="Capture.PNG" alt="Not displayed" usemap="#yogi">
+        <map name="yogi">
+            <area shape="poly" coords="165,75,329,76,191,196,367,177" href="elephant.html">
+            <area shape="poly" coords="231,227,303,226,337,282,227,278" href="lion.html">
+            <area shape="poly" coords="512,222,614,214,606,283,504,283" href="deer.html">
+           
+        </map>
+    </body>
+</html>
+
+
+-->elephant.html
+<html>
+    <head>
+        <title>About the animal</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <h1>ELEPHANT</h1>
+        <img src="ele.PNG" alt="Elephant">
+        <p>
+            <b>Species:</b> Elephants belong to the family Elephantidae, which includes the African and Asian elephant.<br>
+            <b>Habitat:</b> Found in various habitats, from savannas and forests to deserts and marshes.<br>
+            <b>Size:</b> Largest land animals, with males weighing up to 14,000 pounds (6,350 kg).<br>
+            <b>Trunks:</b> Unique elongated noses with various uses, including breathing, smelling, grasping objects, and communication.<br>
+            <b>Social Structure:</b> Live in tight-knit family groups led by a matriarch.<br>
+            <b>Intelligence:</b> Known for high intelligence, problem-solving abilities, and strong memory.<br>
+            <b>Communication:</b> Use a variety of vocalizations, body language, and infrasound for communication.<br>
+            <b>Diet:</b> Primarily herbivores, consuming a variety of vegetation.<br>
+            <b>Threats:</b> Face threats like habitat loss, poaching for ivory, and conflicts with humans.<br>
+            <b>Conservation:</b> Conservation efforts aim to protect elephants and their habitats to ensure their survival.<br>
+        </p>
+    </body>
+</html>
+
+
+-->lion.html
+<html>
+    <head>
+        <title>About the animal</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <h1>LION</h1>
+        <img src="lion.PNG" alt="Lion">
+        <p>
+            <b>Species:</b> Lions belong to the Felidae family and are part of the genus Panthera.<br>
+            <b>Habitat:</b> Found in grasslands, savannas, and open woodlands across Africa and parts of Asia.<br>
+            <b>Size:</b> Males are larger than females, with an average weight of around 420 pounds (190 kg).<br>
+            <b>Manes:</b> Male lions often have distinctive manes, which vary in color and size.<br>
+            <b>Social Structure:</b> Live in groups called prides, typically consisting of multiple lionesses, their cubs, and a few dominant males.<br>
+            <b>Hunting:</b> Lions are apex predators and hunt cooperatively, with lionesses doing most of the hunting.<br>
+            <b>Communication:</b> Use roars, growls, and other vocalizations for communication.<br>
+            <b>Diet:</b> Carnivores, with a diet primarily consisting of ungulates like wildebeests and zebras.<br>
+            <b>Threats:</b> Face threats such as habitat loss, human-wildlife conflict, and poaching.<br>
+            <b>Conservation:</b> Conservation efforts focus on protecting lion populations and their habitats to ensure their continued existence.<br>
+        </p>
+    </body>
+</html>
+
+
+-->deer.html
+<html>
+    <head>
+        <title>About the animal</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <h1>DEER</h1>
+        <img src="deer.PNG" alt="Deer">
+        <p>
+            <b>Species:</b> Various deer species exist, including white-tailed deer, mule deer, elk, and moose.<br>
+            <b>Habitat:</b> Found in diverse environments, ranging from forests and grasslands to mountainous regions.<br>
+            <b>Size:</b> Sizes vary among species, with white-tailed deer typically smaller than elk or moose.<br>
+            <b>Antlers:</b> Males typically grow antlers, shed annually, and used for mating displays and dominance.<br>
+            <b>Social Structure:</b> Generally form small family groups, with females and their offspring.<br>
+            <b>Diet:</b> Herbivores, feeding on vegetation such as grass, leaves, and twigs.<br>
+            <b>Camouflage:</b> Many species have fur that helps them blend into their surroundings for protection.<br>
+            <b>Predators:</b> Face threats from predators like wolves, coyotes, and mountain lions.<br>
+            <b>Migration:</b> Some species exhibit seasonal migrations to find food or suitable mating grounds.<br>
+            <b>Conservation:</b> Conservation efforts focus on maintaining healthy habitats and managing deer populations to balance ecosystems.<br>
+        </p>
+    </body>
+</html>
